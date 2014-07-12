@@ -1,6 +1,6 @@
 # ModelMe 
 
-A library for describing model ovjects and performing validation
+A library for describing model objects and performing validation.
 
 ## Installation
 
