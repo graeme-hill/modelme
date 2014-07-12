@@ -1,0 +1,16 @@
+{
+    "name": "modelme",
+    "version": "0.0.1",
+    "description": "Model definition and validation library",
+    "maintainers": [
+        {
+            "name": "Graeme Hill",
+            "web": "http://graemehill.ca"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/graeme-hill/modelme"
+    },
+    "license": "MIT"
+}
